@@ -450,27 +450,3 @@ while (1):
     else:
         print ("Wrong option!")
         exit
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
-    """for i in player1_win_list:
-        for j in [1,2,3,] or [4,5,6] or [7,8,9] or [1,5,9] or [3,4,7]:
-            if i==j:
-                print('player 1 is winner ' )
-    for i in player2_win_list:
-        for j in [1,2,3,] or [4,5,6] or [7,8,9] or [1,5,9] or [3,4,7]:
-            if i==j:
-                print('player 2 is winner ' )
-            else:
-                print('Draw')"""
